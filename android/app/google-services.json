@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666194711890",
+    "project_id": "asl-app-d2c2c",
+    "storage_bucket": "asl-app-d2c2c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666194711890:android:d8f116a63cbf159497968b",
+        "android_client_info": {
+          "package_name": "com.example.asl_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAwmgAj1S8b0McbeSzjy4Wpb00TQUymBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
