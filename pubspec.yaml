@@ -40,7 +40,14 @@ dependencies:
   permission_handler: ^12.0.1
   camera_web: ^0.3.5+2
   url_launcher: ^6.2.5
-  speech_to_text: ^6.6.2
+  speech_to_text: ^7.3.0
+
+dependency_overrides:
+  camera_android_camerax: ^0.6.26+2
+  characters: ^1.4.1
+  matcher: ^0.12.18
+  material_color_utilities: ^0.13.0
+  test_api: ^0.7.8
 
 dev_dependencies:
   flutter_test:
